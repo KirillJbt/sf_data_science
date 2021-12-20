@@ -1,7 +1,5 @@
 # Проект 0. Угадай число
 
-[https://img.shields.io/badge/Python-3.9.7-blue]
-
 ## Оглавление
 [1. Описание проекта](https://github.com/KirillJbt/sf_data_science/blob/main/project_0/README.md#Описание-проекта)
 
