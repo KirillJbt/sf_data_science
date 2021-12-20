@@ -14,19 +14,19 @@ def random_predict(number:int=1)->int:
         int: Number of tries
     """
     
-    count = 0
     low_range_limit = 1
     upper_range_limit = 101
-    predict_number = 50
+    predict_number = 51  # Narrowing the range by half
+    count = 1
     
     while predict_number != number:
         count += 1
-        predict_number = np.random.randint(low_range_limit, upper_range_limit) # estimated number
         if predict_number > number:
             upper_range_limit = predict_number
         elif predict_number < number:
             low_range_limit = predict_number
-            
+        predict_number = (upper_range_limit + low_range_limit) // 2  # Narrowing the range by half again
+                      
     return count
 
 
