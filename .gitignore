@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# папка с модулями
+Module-SF-DS/
+
+# папка с дата фреймами
+data/
+project_1/data/
