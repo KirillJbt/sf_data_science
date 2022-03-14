@@ -54,43 +54,43 @@
 
 ## Краткая информация о данных
 
-class 'pandas.core.frame.DataFrame'
+|class 'pandas.core.frame.DataFrame'|
 
-RangeIndex: 44744 entries, 0 to 44743
+|RangeIndex: 44744 entries, 0 to 44743|
 
-Data columns (total 12 columns):
+|Data columns (total 12 columns):|
 
-    Column                           Non-Null Count  Dtype 
+    Column                           Non-Null Count  Dtype |
 
----  ------                           --------------  ----- 
+---  ------                           --------------  -----|
 
-0---Пол, возраст---------------------44744 non-null  object
-
-1---ЗП-------------------------------44744 non-null  object
-
-2---Ищет работу на должность:--------44744 non-null  object
-
-3---Город, переезд, командировки-----44744 non-null  object
-
-4---Занятость------------------------44744 non-null  object
-
-5---График---------------------------44744 non-null  object
-
-6---Опыт работы----------------------44576 non-null  object
-
-7---Последнее/нынешнее место работы--44743 non-null  object
-
-8---Последняя/нынешняя должность-----44742 non-null  object
-
-9---Образование и ВУЗ----------------44744 non-null  object
-
-10--Обновление резюме----------------44744 non-null  object
-
-11--Авто-----------------------------44744 non-null  object
-
-dtypes: object(12)
-
-memory usage: 4.1+ MB
+|0---Пол, возраст---------------------44744 non-null  object|
+|
+|1---ЗП-------------------------------44744 non-null  object
+|
+|2---Ищет работу на должность:--------44744 non-null  object
+|
+|3---Город, переезд, командировки-----44744 non-null  object
+|
+|4---Занятость------------------------44744 non-null  object
+|
+|5---График---------------------------44744 non-null  object
+|
+|6---Опыт работы----------------------44576 non-null  object
+|
+|7---Последнее/нынешнее место работы--44743 non-null  object
+|
+|8---Последняя/нынешняя должность-----44742 non-null  object
+|
+|9---Образование и ВУЗ----------------44744 non-null  object
+|
+|10--Обновление резюме----------------44744 non-null  object
+|
+|11--Авто-----------------------------44744 non-null  object
+|
+|dtypes: object(12)
+|
+|memory usage: 4.1+ MB
 
 :arrow_up:[ к оглавлению](https://github.com/KirillJbt/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
